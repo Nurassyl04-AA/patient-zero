@@ -110,7 +110,7 @@ Do not leave this for the last night. The repository shows how you worked.
         git add .
         git commit -m "Add starter project"
         git branch -M main
-        git remote add origin https://github.com/YOUR_NAME/patient-zero.git
+        git remote add origin (https://github.com/Nurassyl04-AA/patient-zero)
         git push -u origin main
 
 3. Work on `main`. After every mission make a commit with a message that says what changed, and push it:
